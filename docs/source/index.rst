@@ -11,5 +11,6 @@ Contents
 .. toctree::
 
    introduction
-   usage
-   api
+   CSEduetoSlipofAction
+   CSEduetoErrorsofUnderstanding
+   
