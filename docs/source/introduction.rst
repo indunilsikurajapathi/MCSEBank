@@ -84,11 +84,11 @@ Seven main errors were identified under the Errors of understanding (U) category
 
 Only one main error was found in each of the Errors in choice of method (CM) and Errors in use of method (UM) categories. Three CSEs were grouped into the main error of applying an inappropriate formula/method/theorem in CM. There were 9 CSEs which fell into Error in use of an appropriate definition/method/theorem in the UM category. All the codes, errors and examples that we found in this CSE collection process are shown in Table 1.
 
-+-------------+------+------+------------+
-|Main Category | Code | Error | Examples |
-+============+========+=======+==========+
-|Main Category | Code | Error | Examples |
-+-------------+------+------+------------+
++---------------+------+-------+------------+
+| Main Category | Code | Error | Examples   |
++===============+======+=======+============+
+| Main Category | Code | Error | Examples   |
++---------------+------+-------+------------+
 
 
 
