@@ -9,4 +9,10 @@ The information in this book may be used to inform teachers so that they can pro
 
 We anticipate that this book will be useful to identify and address some misconceptions that students have in mathematics. We plan to continue with this research and will update the book if we find new CSEs in the future.
 
+Common Student Errors (CSEs)
+============================
+Students arrive at an incorrect answer when answering a mathematical question due to variety of reasons. The reasons can be listed as random errors, calculation errors or misreading the questions. These errors lead to incorrect answers or loss of accuracy marks. Many of these errors are made by just a few students. However, some of these errors are commonly made by a considerable number of students. These commonly made errors are sometimes referred to as common errors (Rushton, 2014).
+
+Researchers express different opinions about the difference between errors and misconceptions in the literature. For Confrey (1990), the reasons for both errors and misconceptions are the rules and beliefs that students hold. They argue that the difference between errors and misconceptions is that misconceptions are attached to particular theoretical positions. However, Nesher (1987) uses the term misconceptions to describe systematic errors without reference to a theoretical position.
+
 
