@@ -1,5 +1,6 @@
+************
 Introduction
-============
+************
 This book presents Common Student Errors (CSEs) that have been made by first year students taking Engineering Mathematics e-examinations at the University of the West of England, Bristol (UWE, Bristol). The CSEs presented in this document were collected from 2017-2019 as part of the Common Student Errors Project (CSE Project at UWE) conducted at UWE, Bristol. This research has been conducted by Indunil Sikurajapathi for her Doctoral studies under the guidance of Dr Karen Henderson and Dr Rhys Gwynllyw.
 
 This book is organised as follows. In Section 1.1 and Section 1.2 we present a brief background of Common Student Errors (CSEs) and the Dewis e-Assessment System. Then we explain how we conducted the CSE Project at UWE, Bristol in Section 1.3 and the present the CSEs Collection found during the project in Section 1.4. The taxonomy coding utilised to classify the CSEs in e-Assessments found in this project is discussed in detail in Section 1.5. After that we provide a Guide to the CSE recording template in Section 1.6 which is used in the subsequent Sections 2-23 to present all of the 65 CSEs found to date during the CSE Project at UWE, Bristol.
