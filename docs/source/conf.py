@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
+project = 'CSE Repository'
+copyright = '2024, Indunil Sikurajapathi'
 author = 'Graziella'
 
 release = '0.1'
