@@ -25,5 +25,9 @@ There has been recent research into theorising student errors supported by empir
 
 Dewis e-Assessment System
 #########################
+Dewis is a fully algorithmic open-source e-Assessment system, which was primarily designed and developed for numerate e-Assessments by a team of Mathematicians, Statisticians and Software Engineers at UWE Bristol (Gwynllyw and Henderson, 2009; Gwynllyw and Henderson, 2012). Dewis supports different question input types such as numerical inputs, matrices, vectors, algebraic expressions, multiple-choice, multiple-selection, graphical input, and computer programs. It has a lossless data collection feature and a number of student-friendly features, such as shutdown recovery and pre-processing checks on student input.
+
+Over the past decade, Dewis has been used very successfully to facilitate both formative and summative e-Assessments across a number of modules, delivered to students in a wide range of fields, e.g. Business, Computer Science, Nursing, Software Engineering, Engineering, Mathematics and Statistics. One aim of the CSE project is to enhance the full potential of Dewis, by developing and using additional features allowing Dewis to detect CSEs and to provide instant tailored feedback.
+
 
 
