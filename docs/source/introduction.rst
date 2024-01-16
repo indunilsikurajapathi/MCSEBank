@@ -87,7 +87,7 @@ Only one main error was found in each of the Errors in choice of method (CM) and
 +---------------+------+-------+------------+
 | Main Category | Code | Error | Examples   |
 +===============+======+=======+============+
-| Main Category | Code | Error | Examples   |
+| Slip of action | Code | Error | Examples  |
 +---------------+------+-------+------------+
 
 
