@@ -90,5 +90,6 @@ Only one main error was found in each of the Errors in choice of method (CM) and
 | Slip of action | Code | Error | Examples  |
 +---------------+------+-------+------------+
 
-
+Guide to the CSE recording template
+###################################
 
