@@ -50,20 +50,21 @@ The CSEs presented in this booklet were collected by examining the 2017-2018 and
 
 Altogether 65 CSEs were identified in the following different topics areas of Engineering Mathematics:
 *Algebra
-*Unit-step function
-*Wave forms
-*Trigonometric functions
-*Differentiation
-*Implicit differentiation
-*Partial differentiation
-*Mean Value Theorem
-*Complex numbers
-*Geometric series
-*Maclaurin Expansion
-*Centre of Mass
-*Integration by parts
-*Volume of revolution
-*Dimensions
+
+* Unit-step function
+* Wave forms
+* Trigonometric functions
+* Differentiation
+* Implicit differentiation
+* Partial differentiation
+* Mean Value Theorem
+* Complex numbers
+* Geometric series
+* Maclaurin Expansion
+* Centre of Mass
+* Integration by parts
+* Volume of revolution
+* Dimensions
 
 Taxonomy of Mathematical Common Student Errors in e-Assessments
 ###############################################################
